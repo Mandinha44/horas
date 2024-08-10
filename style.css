@@ -1,0 +1,38 @@
+body{
+    font-family:'Courier New', Courier, monospace
+}
+header{
+    color: black;
+    text-align: center;
+}
+section{
+    background-color: rgba(6, 6, 6, 0.266);
+    border-radius: 20px;
+    padding: 15px;
+    width: 850px;
+    margin: auto;
+    color: black;
+    box-shadow:20px 20px 20px rgba(18, 52, 52, 0.462);
+}
+div{
+
+    text-align: center;
+    padding: 15px;
+}
+
+#bom{
+    font-weight: bold;
+    font-size: large;
+}
+
+img{
+border-radius: 100PX;
+  width: 510px;
+  height: 410px;
+}
+
+footer{
+    padding: 15px;
+    text-align: center;
+    font-style: italic;
+}
